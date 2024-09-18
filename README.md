@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
-<h3 align="center">A new backend from Spain</h3>
+<h3 align="center">A new backend developer from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wildrepublicmini&label=Profile%20views&color=0e75b6&style=flat" alt="wildrepublicmini" /> </p>
 
@@ -7,9 +7,10 @@
 
 - 👯 Estoy buscando **practicas de empresa**
 
-- 👯 I’m looking to collaborate on **a company**
 
 - Actualmente estoy trabajando en [BattleShipGame](https://github.com/WildRepublicMini/battleshipGame)
+
+- 👯 I am looking for **an internship**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,4 +18,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
