@@ -5,12 +5,9 @@
 
 - 🔭 I’m currently working on [BattleShipGame](https://github.com/WildRepublicMini/battleshipGame)
 
-- ℹ Estoy buscando **practicas de empresa**
-
 
 - Actualmente estoy trabajando en [BattleShipGame](https://github.com/WildRepublicMini/battleshipGame)
 
-- ℹ I am looking for **an internship**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
