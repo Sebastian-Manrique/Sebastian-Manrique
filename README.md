@@ -25,8 +25,19 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebastian-Manrique&theme=github_dark&layout=compact)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebastian-Manrique&theme=github_dark&layout=compact" 
+    height="165" 
+    style="margin-right: 300px;" 
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=Sebastian-Manrique&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=120" 
+    height="165" 
+  />
+</p>
 
-  
+
+
 ![snake gif](https://github.com/Sebastian-Manrique/Sebastian-Manrique/blob/output/github-snake-dark.svg)
 </div>
